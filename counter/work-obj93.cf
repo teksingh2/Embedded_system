@@ -1,0 +1,11 @@
+v 4
+file . "countertest.vhdl" "0cb9f5122ba1f9ed42e6cd5235b75f127efedc39" "20240220145227.766":
+  entity countertest at 1( 0) + 0 on 17;
+  architecture countertest of countertest at 7( 84) + 0 on 18;
+file . "counter.vhdl" "1f956a421946f844e06325a35d4619eb1a67052d" "20240220145227.720":
+  entity tff at 1( 0) + 0 on 11;
+  architecture tff of tff at 9( 121) + 0 on 12;
+  entity and_g at 28( 424) + 0 on 13;
+  architecture and_g of and_g at 36( 544) + 0 on 14;
+  entity up_counter at 42( 608) + 0 on 15;
+  architecture up_counter of up_counter at 50( 762) + 0 on 16;
