@@ -16,7 +16,7 @@ Ensure you have the following software installed on your system:
 ### Cloning the Repository
 
 ```bash
-
+https://github.com/teksingh2/Embedded_system.git
 
 ```
 
